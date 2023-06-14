@@ -2,7 +2,7 @@
 - 👀 I’m interested in bouldering
 - 🌱 I’m currently learning web programming
 - 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me telegram
+- 📫 Reach me at telegram @darlychen
 
 <!---
 darylchen46/darylchen46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
